@@ -1,0 +1,17 @@
+{
+  "name": "geojson-merge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "jsts": "^2.8.1"
+  }
+}
